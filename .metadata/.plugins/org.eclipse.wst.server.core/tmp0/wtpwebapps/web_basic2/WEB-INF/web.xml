@@ -1,0 +1,29 @@
+<!-- <web-app>
+    <servlet>
+        <servlet-name>HelloServletMapping</servlet-name>
+        <servlet-class>web_basic2.HelloServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>HelloServletMapping</servlet-name>
+        <url-pattern>/HelloServlet</url-pattern>
+    </servlet-mapping>
+</web-app> -->
+
+<!-- <servlet>
+    <servlet-name>UseForwardServlet1Mapping</servlet-name>
+    <servlet-class>ch09.UseForwardServlet1</servlet-class>
+</servlet>
+<servlet-mapping>
+    <servlet-name>UseForwardServlet1Mapping</servlet-name>
+    <url-pattern>/UseForwardServlet1</url-pattern>
+</servlet-mapping> -->
+
+
+<servlet>
+    <servlet-name>UseForwardServlet2Mapping</servlet-name>
+    <servlet-class>ch09.UseForwardServlet2</servlet-class>
+</servlet>
+<servlet-mapping>
+    <servlet-name>UseForwardServlet2Mapping</servlet-name>
+    <url-pattern>/UseForwardServlet2</url-pattern>
+</servlet-mapping>

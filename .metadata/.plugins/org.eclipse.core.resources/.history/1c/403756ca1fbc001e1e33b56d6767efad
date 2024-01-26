@@ -1,0 +1,8 @@
+<servlet>
+    <servlet-name>UseForwardServlet1Mapping</servlet-name>
+    <servlet-class>ch09.UseForwardServlet1</servlet-class>
+</servlet>
+<servlet-mapping>
+    <servlet-name>UseForwardServlet1Mapping</servlet-name>
+    <url-pattern>/UseForwardServlet1</url-pattern>
+</servlet-mapping>

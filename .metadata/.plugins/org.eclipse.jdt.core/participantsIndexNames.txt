@@ -1,0 +1,7 @@
+INDEX VERSION 1.134
+/Users/yamazakiyuto/eclipse-workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/1335479161.index
+/web_basic2/src/main/java
+/Users/yamazakiyuto/eclipse-workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/4220324702.index
+/web_basic2/src/main/java
+/Users/yamazakiyuto/eclipse-workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/814736151.index
+/web_basic2/src/main/java
